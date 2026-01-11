@@ -1,0 +1,9 @@
+
+{
+  "name": "李璇的小工具 - 财务智能流水账",
+  "description": "一个专为财务人员设计的智能现金流水账管理工具。支持AI自然语言录入、自动余额核算、动态图表分析，极大减轻手工记账负担。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
